@@ -1,2 +1,2 @@
 Hello Everyone
-We are learning Git
+We are learning Git which is an SCM
