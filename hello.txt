@@ -1,4 +1,5 @@
 Hello Everyone
 Changes done by Dev1
+Changes done by Dev2
 We are learning Git which is an SCM
 Some changes
