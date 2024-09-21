@@ -1,2 +1,3 @@
 Hello Everyone
 We are learning Git which is an SCM
+Some changes
